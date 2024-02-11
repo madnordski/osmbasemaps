@@ -1,10 +1,10 @@
 # osmbasemaps
 This repository contains IMG file basemaps for Garmin eTrex devices.
 
-us-midwest
-  us-midwest01.img
-  us-midwest02.img
-  us-midwest03.img
+<dl><dt>us-midwest</dt>
+  <dd>us-midwest01.img</dd>
+  <dd>us-midwest02.img</dd>
+  <dd>us-midwest03.img</dd>
   
 Copyright (c) information.
 Prepared by J. King 11 Feb 2024
